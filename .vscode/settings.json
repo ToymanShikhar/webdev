@@ -1,4 +1,5 @@
 {
     "color-highlight.markerType": "dot-before",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4
 }
